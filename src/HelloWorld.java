@@ -7,5 +7,13 @@ public class HelloWorld {
     // och 3
 
     // En till kommentar.
+
 //Här kan man skriva kod
+
+
+    public int getNumberOne() {
+        return 1;
+    }
+
+
 }
