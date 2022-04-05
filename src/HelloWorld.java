@@ -5,6 +5,6 @@ public class HelloWorld {
     } // kommentar 2
     // och 3
 
-// En till kommentar.
+// E n till kommentar.
 
 }
