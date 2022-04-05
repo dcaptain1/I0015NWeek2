@@ -4,6 +4,6 @@ public class HelloWorld {
         System.out.println("Hello World, version 11"); //detta är en kommentar
     }
 
-
+// En till kommentar.
 
 }
