@@ -8,4 +8,8 @@ public class HelloWorld {
 
     // En till kommentar.
 
+    public int getNumberOne() {
+        return 1;
+    }
+
 }
